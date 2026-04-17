@@ -1,0 +1,33 @@
+# Xcode
+#
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.playground.xcworkspace
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+!default.xccheckout
+
+# User Specific
+#
+xcuserdata/
+
+# Swift Package Manager
+#
+.build/
+.swiftpm/
+Checkouts/
+artifacts/
+
+# macOS
+#
+.DS_Store
+*.swp
+*~
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
